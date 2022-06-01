@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(190, 170, 125);
+}
+
+h3 {
+    background-color: white;
+    padding: 8px;
+    margin: 0%;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    color: rgb(230, 217, 210);
+    text-align: center;
+    text-shadow: 3px 2px 1px rgb(124, 102, 57);
+}
+
+.titulo2{
+    
+}
+
+.caja1 {
+    background-color: rgb(120, 123, 106);
+    color: white;
+    padding: 3px;
+    margin: 1px;
+    border-radius: 2px;
+    text-indent: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caja2 {
+    background-color: rgb(236, 216, 197);
+    color: rgb(59, 75, 43);
+    text-align: right;
+    padding: 3px;
+    margin: 1px;
+    border-radius: 3px;
+}
+
+.caja3 {
+    background-color: rgb(249, 240, 229);
+    padding: 3px;
+    border-radius: 2px;
+    text-indent: 15px;
+}
+
+.lista {
+    background-color: rgb(144, 130, 112);
+    color: aliceblue;
+    padding: 2px;
+}
+
+.lista2 {
+    background-color: rgb(108, 98, 84);
+    color: aliceblue;
+    padding: 2px;
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.linkP {
+    text-decoration: underline;
+    letter-spacing: 2px;
+}
